@@ -1,2 +1,2 @@
 # MKWS2023
-Projekt
+Symulacja spalania mieszanin o różnych stężeniach nitrometanolu, metanolu oraz powietrza.
